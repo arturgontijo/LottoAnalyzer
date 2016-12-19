@@ -23,7 +23,6 @@ E:\LedStudio\Painel\C#\LottoAnalyzer\LottoAnalyzer\obj\x86\Debug\LottoAnalyzer.p
 \\VBOXSVR\Dados\GP Painel\Desenvolvimento\C#\LottoAnalyzer\LottoAnalyzer\obj\x86\Debug\LottoAnalyzer.csproj.GenerateResource.Cache
 E:\GP Painel\Desenvolvimento\C#\LottoAnalyzer\LottoAnalyzer\bin\Debug\LottoAnalyzer.exe
 E:\GP Painel\Desenvolvimento\C#\LottoAnalyzer\LottoAnalyzer\bin\Debug\LottoAnalyzer.pdb
-E:\GP Painel\Desenvolvimento\C#\LottoAnalyzer\LottoAnalyzer\bin\Debug\HtmlAgilityPack.dll
 E:\GP Painel\Desenvolvimento\C#\LottoAnalyzer\LottoAnalyzer\bin\Debug\HtmlAgilityPack.pdb
 E:\GP Painel\Desenvolvimento\C#\LottoAnalyzer\LottoAnalyzer\bin\Debug\HtmlAgilityPack.xml
 E:\GP Painel\Desenvolvimento\C#\LottoAnalyzer\LottoAnalyzer\obj\x86\Debug\LottoAnalyzer.csprojResolveAssemblyReference.cache
