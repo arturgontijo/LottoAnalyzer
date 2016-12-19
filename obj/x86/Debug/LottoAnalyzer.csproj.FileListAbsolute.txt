@@ -1,0 +1,34 @@
+E:\LedStudio\Painel\C#\LottoAnalyzer\LottoAnalyzer\bin\Debug\LottoAnalyzer.exe
+E:\LedStudio\Painel\C#\LottoAnalyzer\LottoAnalyzer\bin\Debug\LottoAnalyzer.pdb
+E:\LedStudio\Painel\C#\LottoAnalyzer\LottoAnalyzer\bin\Debug\HtmlAgilityPack.dll
+E:\LedStudio\Painel\C#\LottoAnalyzer\LottoAnalyzer\bin\Debug\HtmlAgilityPack.pdb
+E:\LedStudio\Painel\C#\LottoAnalyzer\LottoAnalyzer\bin\Debug\HtmlAgilityPack.xml
+E:\LedStudio\Painel\C#\LottoAnalyzer\LottoAnalyzer\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\LedStudio\Painel\C#\LottoAnalyzer\LottoAnalyzer\obj\x86\Debug\LottoAnalyzer.MainWindow.resources
+E:\LedStudio\Painel\C#\LottoAnalyzer\LottoAnalyzer\obj\x86\Debug\LottoAnalyzer.Properties.Resources.resources
+E:\LedStudio\Painel\C#\LottoAnalyzer\LottoAnalyzer\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\LedStudio\Painel\C#\LottoAnalyzer\LottoAnalyzer\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\LedStudio\Painel\C#\LottoAnalyzer\LottoAnalyzer\obj\x86\Debug\LottoAnalyzer.exe
+E:\LedStudio\Painel\C#\LottoAnalyzer\LottoAnalyzer\obj\x86\Debug\LottoAnalyzer.pdb
+\\VBOXSVR\Dados\GP Painel\Desenvolvimento\C#\LottoAnalyzer\LottoAnalyzer\obj\x86\Debug\LottoAnalyzer.exe
+\\VBOXSVR\Dados\GP Painel\Desenvolvimento\C#\LottoAnalyzer\LottoAnalyzer\obj\x86\Debug\LottoAnalyzer.pdb
+\\VBOXSVR\Dados\GP Painel\Desenvolvimento\C#\LottoAnalyzer\LottoAnalyzer\bin\Debug\LottoAnalyzer.exe
+\\VBOXSVR\Dados\GP Painel\Desenvolvimento\C#\LottoAnalyzer\LottoAnalyzer\bin\Debug\LottoAnalyzer.pdb
+\\VBOXSVR\Dados\GP Painel\Desenvolvimento\C#\LottoAnalyzer\LottoAnalyzer\bin\Debug\HtmlAgilityPack.dll
+\\VBOXSVR\Dados\GP Painel\Desenvolvimento\C#\LottoAnalyzer\LottoAnalyzer\bin\Debug\HtmlAgilityPack.pdb
+\\VBOXSVR\Dados\GP Painel\Desenvolvimento\C#\LottoAnalyzer\LottoAnalyzer\bin\Debug\HtmlAgilityPack.xml
+\\VBOXSVR\Dados\GP Painel\Desenvolvimento\C#\LottoAnalyzer\LottoAnalyzer\obj\x86\Debug\LottoAnalyzer.csprojResolveAssemblyReference.cache
+\\VBOXSVR\Dados\GP Painel\Desenvolvimento\C#\LottoAnalyzer\LottoAnalyzer\obj\x86\Debug\LottoAnalyzer.MainWindow.resources
+\\VBOXSVR\Dados\GP Painel\Desenvolvimento\C#\LottoAnalyzer\LottoAnalyzer\obj\x86\Debug\LottoAnalyzer.Properties.Resources.resources
+\\VBOXSVR\Dados\GP Painel\Desenvolvimento\C#\LottoAnalyzer\LottoAnalyzer\obj\x86\Debug\LottoAnalyzer.csproj.GenerateResource.Cache
+E:\GP Painel\Desenvolvimento\C#\LottoAnalyzer\LottoAnalyzer\bin\Debug\LottoAnalyzer.exe
+E:\GP Painel\Desenvolvimento\C#\LottoAnalyzer\LottoAnalyzer\bin\Debug\LottoAnalyzer.pdb
+E:\GP Painel\Desenvolvimento\C#\LottoAnalyzer\LottoAnalyzer\bin\Debug\HtmlAgilityPack.dll
+E:\GP Painel\Desenvolvimento\C#\LottoAnalyzer\LottoAnalyzer\bin\Debug\HtmlAgilityPack.pdb
+E:\GP Painel\Desenvolvimento\C#\LottoAnalyzer\LottoAnalyzer\bin\Debug\HtmlAgilityPack.xml
+E:\GP Painel\Desenvolvimento\C#\LottoAnalyzer\LottoAnalyzer\obj\x86\Debug\LottoAnalyzer.csprojResolveAssemblyReference.cache
+E:\GP Painel\Desenvolvimento\C#\LottoAnalyzer\LottoAnalyzer\obj\x86\Debug\LottoAnalyzer.MainWindow.resources
+E:\GP Painel\Desenvolvimento\C#\LottoAnalyzer\LottoAnalyzer\obj\x86\Debug\LottoAnalyzer.Properties.Resources.resources
+E:\GP Painel\Desenvolvimento\C#\LottoAnalyzer\LottoAnalyzer\obj\x86\Debug\LottoAnalyzer.csproj.GenerateResource.Cache
+E:\GP Painel\Desenvolvimento\C#\LottoAnalyzer\LottoAnalyzer\obj\x86\Debug\LottoAnalyzer.exe
+E:\GP Painel\Desenvolvimento\C#\LottoAnalyzer\LottoAnalyzer\obj\x86\Debug\LottoAnalyzer.pdb
